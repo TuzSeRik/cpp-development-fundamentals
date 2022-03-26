@@ -1,0 +1,3 @@
+/mnt/d/JetBrains Projects/CLion/cpp-development-fundamentals-brown-belt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/JetBrains Projects/CLion/cpp-development-fundamentals-brown-belt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/JetBrains Projects/CLion/cpp-development-fundamentals-brown-belt/cmake-build-debug/CMakeFiles/cpp_development_fundamentals_brown_belt.dir

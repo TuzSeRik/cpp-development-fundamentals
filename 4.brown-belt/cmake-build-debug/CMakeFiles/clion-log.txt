@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/d/JetBrains Projects/CLion/cpp-development-fundamentals-brown-belt"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/JetBrains Projects/CLion/cpp-development-fundamentals-brown-belt/cmake-build-debug

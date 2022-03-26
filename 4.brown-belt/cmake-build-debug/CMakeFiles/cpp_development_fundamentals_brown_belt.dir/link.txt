@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -pthread -g   CMakeFiles/cpp_development_fundamentals_brown_belt.dir/main.cpp.o CMakeFiles/cpp_development_fundamentals_brown_belt.dir/request.cpp.o  -o cpp_development_fundamentals_brown_belt 

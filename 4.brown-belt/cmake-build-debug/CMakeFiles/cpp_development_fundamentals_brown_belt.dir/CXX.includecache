@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/JetBrains Projects/CLion/cpp-development-fundamentals-brown-belt/main.cpp
+vector
+-
+string
+-
+unordered_map
+-
+unordered_set
+-
+cmath
+-
+iostream
+-
+iomanip
+-
+

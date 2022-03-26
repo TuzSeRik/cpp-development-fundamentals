@@ -1,0 +1,11 @@
+# Тренировочное задание по программированию: Тесты к задаче «Демографические показатели»
+![image](./../../assets/327.jpg)
+![image](./../../assets/328.jpg)
+![image](./../../assets/329.jpg)
+![image](./../../assets/330.jpg)
+![image](./../../assets/331.jpg)
+![image](./../../assets/332.jpg)
+![image](./../../assets/333.jpg)
+![image](./../../assets/334.jpg)
+![image](./../../assets/335.jpg)
+![image](./../../assets/336.jpg)
